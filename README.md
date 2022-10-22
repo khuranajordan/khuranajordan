@@ -27,7 +27,7 @@ I am a Full Stack Developer (MERN Stack) <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode, CodingNinjas and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-khurana-865245176/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-khurana-865245176/)
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
