@@ -29,7 +29,7 @@ I am a Full Stack Developer (MERN Stack) <img src="https://media.giphy.com/media
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-khurana-865245176/)
 
-- :page_facing_up: Here's a link to my resume: <a href="https://drive.google.com/drive/folders/1rh4jE-34CQgKMmXesjkOEKVxJfW_8eL4?usp=sharing"><img src=https://user-images.githubusercontent.com/32005723/230354091-ce98923b-e327-4fc7-b537-e17fe3551bb7.png" width="25"/></a> 
+- :page_facing_up: Here's a link to my resume: <a href="https://drive.google.com/drive/folders/1rh4jE-34CQgKMmXesjkOEKVxJfW_8eL4?usp=sharing"><img src="https://user-images.githubusercontent.com/32005723/230354091-ce98923b-e327-4fc7-b537-e17fe3551bb7.png" width="25"/></a> 
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
